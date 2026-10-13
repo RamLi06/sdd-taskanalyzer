@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 62fa23dca4e8b2433813f0502696bd372c41b3dd Ramon <ramon.limarocha.809@gmail.com> 1791910244 -0300	commit (initial): chore: adiciona gitignore
+62fa23dca4e8b2433813f0502696bd372c41b3dd e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	commit: chore: adiciona requirements com pytest
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 15729865a65ea02364d88b492af428630b261bec Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	merge feature/sdd-specification: Merge made by the 'ort' strategy.
+15729865a65ea02364d88b492af428630b261bec 29cb4a1b1bd48b71c77fb5373f14db62f5bdc8af Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	merge feature/test-harness: Merge made by the 'ort' strategy.
+29cb4a1b1bd48b71c77fb5373f14db62f5bdc8af cb29e39486325686f1d2cd19825d6a94dc6ad52e Ramon <ramon.limarocha.809@gmail.com> 1791910263 -0300	merge feature/task-analyzer-impl: Merge made by the 'ort' strategy.
+cb29e39486325686f1d2cd19825d6a94dc6ad52e e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	reset: moving to e3787a4

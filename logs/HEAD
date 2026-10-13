@@ -1,0 +1,32 @@
+0000000000000000000000000000000000000000 62fa23dca4e8b2433813f0502696bd372c41b3dd Ramon <ramon.limarocha.809@gmail.com> 1791910244 -0300	commit (initial): chore: adiciona gitignore
+62fa23dca4e8b2433813f0502696bd372c41b3dd e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	commit: chore: adiciona requirements com pytest
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	checkout: moving from main to feature/sdd-specification
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 f45ae82154a56b71b107b7b5791689ef4fbb43d8 Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	commit: docs: adiciona CONTEXT_RULES de governanca de IA
+f45ae82154a56b71b107b7b5791689ef4fbb43d8 e25c6e29919219588bb67902fa9e54278111b753 Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	commit: docs: adiciona especificacao sdd do task analyzer
+e25c6e29919219588bb67902fa9e54278111b753 6b8d9388d5c0d091f5a5f4cb31b741b6af23ffca Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	commit: docs: adiciona README com instrucoes de execucao
+6b8d9388d5c0d091f5a5f4cb31b741b6af23ffca e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	checkout: moving from feature/sdd-specification to main
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 15729865a65ea02364d88b492af428630b261bec Ramon <ramon.limarocha.809@gmail.com> 1791910245 -0300	merge feature/sdd-specification: Merge made by the 'ort' strategy.
+15729865a65ea02364d88b492af428630b261bec 15729865a65ea02364d88b492af428630b261bec Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	checkout: moving from main to feature/test-harness
+15729865a65ea02364d88b492af428630b261bec 5718ee697dda0420ef114d030e41807ee8ef6ce6 Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	commit: test: implementa test harness com pytest para cenario 1 e 2 e bordas
+5718ee697dda0420ef114d030e41807ee8ef6ce6 15729865a65ea02364d88b492af428630b261bec Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	checkout: moving from feature/test-harness to main
+15729865a65ea02364d88b492af428630b261bec 29cb4a1b1bd48b71c77fb5373f14db62f5bdc8af Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	merge feature/test-harness: Merge made by the 'ort' strategy.
+29cb4a1b1bd48b71c77fb5373f14db62f5bdc8af 29cb4a1b1bd48b71c77fb5373f14db62f5bdc8af Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	checkout: moving from main to feature/task-analyzer-impl
+29cb4a1b1bd48b71c77fb5373f14db62f5bdc8af ecc00301fe65246d97e0066a09ada4575ffcc7de Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	commit: feat: implementa algoritmo task_analyzer via assistente de IA
+ecc00301fe65246d97e0066a09ada4575ffcc7de 29cb4a1b1bd48b71c77fb5373f14db62f5bdc8af Ramon <ramon.limarocha.809@gmail.com> 1791910263 -0300	checkout: moving from feature/task-analyzer-impl to main
+29cb4a1b1bd48b71c77fb5373f14db62f5bdc8af cb29e39486325686f1d2cd19825d6a94dc6ad52e Ramon <ramon.limarocha.809@gmail.com> 1791910263 -0300	merge feature/task-analyzer-impl: Merge made by the 'ort' strategy.
+cb29e39486325686f1d2cd19825d6a94dc6ad52e cb29e39486325686f1d2cd19825d6a94dc6ad52e Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	checkout: moving from main to main
+cb29e39486325686f1d2cd19825d6a94dc6ad52e e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	reset: moving to e3787a4
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 5718ee697dda0420ef114d030e41807ee8ef6ce6 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	checkout: moving from main to feature/test-harness
+5718ee697dda0420ef114d030e41807ee8ef6ce6 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	rebase (start): checkout main
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	rebase (finish): returning to refs/heads/feature/test-harness
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 ecc00301fe65246d97e0066a09ada4575ffcc7de Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	checkout: moving from feature/test-harness to feature/task-analyzer-impl
+ecc00301fe65246d97e0066a09ada4575ffcc7de e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	rebase (start): checkout main
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 a1accd35a318af49756b1ee6c9cfb2ed28e93829 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	rebase (pick): feat: implementa algoritmo task_analyzer via assistente de IA
+a1accd35a318af49756b1ee6c9cfb2ed28e93829 a1accd35a318af49756b1ee6c9cfb2ed28e93829 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	rebase (finish): returning to refs/heads/feature/task-analyzer-impl
+a1accd35a318af49756b1ee6c9cfb2ed28e93829 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	checkout: moving from feature/task-analyzer-impl to main
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910276 -0300	checkout: moving from main to feature/test-harness
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 5ee63f13ae47a13f7aba7d91dfa90eff62a03342 Ramon <ramon.limarocha.809@gmail.com> 1791910276 -0300	cherry-pick: test: implementa test harness com pytest para cenario 1 e 2 e bordas
+5ee63f13ae47a13f7aba7d91dfa90eff62a03342 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910276 -0300	checkout: moving from feature/test-harness to main
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910276 -0300	checkout: moving from main to tmp-verify
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 7f0cc80b2c8458d15ea9652e835c0f8dbeea0229 Ramon <ramon.limarocha.809@gmail.com> 1791910276 -0300	merge feature/sdd-specification feature/test-harness feature/task-analyzer-impl: Merge made by the 'octopus' strategy.
+7f0cc80b2c8458d15ea9652e835c0f8dbeea0229 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910283 -0300	checkout: moving from tmp-verify to main

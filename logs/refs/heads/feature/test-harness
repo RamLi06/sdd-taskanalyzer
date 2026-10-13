@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 15729865a65ea02364d88b492af428630b261bec Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	branch: Created from HEAD
+15729865a65ea02364d88b492af428630b261bec 5718ee697dda0420ef114d030e41807ee8ef6ce6 Ramon <ramon.limarocha.809@gmail.com> 1791910254 -0300	commit: test: implementa test harness com pytest para cenario 1 e 2 e bordas
+5718ee697dda0420ef114d030e41807ee8ef6ce6 e3787a44c4da3c38c815f7e8b1dcc0f495117558 Ramon <ramon.limarocha.809@gmail.com> 1791910272 -0300	rebase (finish): refs/heads/feature/test-harness onto e3787a44c4da3c38c815f7e8b1dcc0f495117558
+e3787a44c4da3c38c815f7e8b1dcc0f495117558 5ee63f13ae47a13f7aba7d91dfa90eff62a03342 Ramon <ramon.limarocha.809@gmail.com> 1791910276 -0300	cherry-pick: test: implementa test harness com pytest para cenario 1 e 2 e bordas
